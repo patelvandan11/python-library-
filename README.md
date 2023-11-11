@@ -1,4 +1,4 @@
 # python-library-
 
 
-#numpy.md
+## [Part 1](https://github.com/patelvandan11/python-library-/blob/main/numpy.md)
